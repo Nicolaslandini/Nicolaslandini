@@ -4,5 +4,5 @@
 
 ✨ Languages and Tools: ✨
 
-Java / C# / HTML / CSS / JS / Bootstrap / SQL / SQL Server / Git / MVN / UML / Design Patterns
+Java / C# / HTML / CSS / JS / Bootstrap / SQL Server / Git / MVN / UML / Design Patterns
 
